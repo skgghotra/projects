@@ -1,0 +1,30 @@
+body{
+    background-color:lightslategray;
+    font-size:20px;
+    text-align:center;
+}
+label{
+    width:100px;
+    text-align:right;
+    margin-right:10px;
+}
+input{
+    width:200px;
+    height:30px;
+    margin-bottom:30px;
+    border:1px solid black;
+    display:inline-block;
+    border-radius:5px;
+}
+button{
+    width:150px;
+    height:30px;
+    padding:5px;
+    margin-left:110px;
+    margin-top:10px;
+    border-radius:5px;
+}
+li{
+    text-align:center;
+    list-style-type:none;
+}
