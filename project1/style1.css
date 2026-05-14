@@ -1,0 +1,46 @@
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+#lightyellow
+{
+    background-color:rgb(249, 249, 138);
+    border:1px solid black;
+    width:150px;
+    height:150px;
+    display:inline-block;    
+    margin-top:100px;
+    margin-left:450px;
+}
+#lightpink
+{
+    background-color:rgb(255, 182, 193);
+    border:1px solid black;
+    width:150px;
+    height:150px;
+    display:inline-block;
+    margin-top:100px;
+    margin-left:50px;
+}
+#lightgreen
+{
+    background-color:rgb(100, 172, 129);
+    border:1px solid black;
+    width:150px;
+    height:150px;
+    display:inline-block;
+    margin-top:100px;
+    margin-left:50px;
+}
+#lightblue
+{       
+    background-color:rgb(173, 216, 230);
+    border:1px solid black;
+    width:150px;
+    height:150px;
+    display:inline-block;
+    margin-top:100px;
+    margin-left:50px;
+}
